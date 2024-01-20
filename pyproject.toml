@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+markers = [
+    "desktop: Маркер тестов для десктопа",
+    "mobile: Маркер тесто для мобилок"]
